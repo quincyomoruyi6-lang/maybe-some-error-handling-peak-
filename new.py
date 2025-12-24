@@ -1,4 +1,3 @@
-# maybe-some-error-handling-peak-
 try:
 
     def create_input():
@@ -13,4 +12,3 @@ except ValueError:
     print("oops something went wrong")
 
 create_input()
-
